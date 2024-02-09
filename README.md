@@ -1,7 +1,7 @@
 # School grades
 
 ## TODO
-* Github
+* Github : push master avec token
 * Docker container
 * Developpment
     * Create Database
